@@ -13,5 +13,14 @@ To use this project -
 
 OR
 
-* Fork the repo
+* Fork the repo  
+* Launch the vagrant VM using `vagrant up`
+* Run `vagrant ssh` which takes the user to vagrant shell
+* At the command line `cd /vagrant`
+* Move to the project folder
+* Run `python items.py` to populate test entries in the database
+* Run `project.py` to run the application
+* Access & test the application at `http://localhost:8000`
+
+
 
