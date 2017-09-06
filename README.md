@@ -22,5 +22,7 @@ OR
 * Run `project.py` to run the application
 * Access & test the application at `http://localhost:8000`
 
+## Features
 
+* CRUD operations 
 
