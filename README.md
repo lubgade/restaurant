@@ -24,5 +24,6 @@ OR
 
 ## Features
 
-* CRUD operations 
+* CRUD operations - Only authenticated users can create, update & delete their own restaurants & menu items
+
 
