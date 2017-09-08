@@ -25,5 +25,6 @@ OR
 ## Features
 
 * CRUD operations - Only authenticated users can create, update & delete their own restaurants & menu items
+* Provides third party (Google) authorization and authentication service
 
 
